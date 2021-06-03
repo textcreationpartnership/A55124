@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant [d]ialogue between a Protestant school-boy, and a Popish priest concerning the present times, as they met at Hide-Park corner, last Fryday. [Illegible] particularly, touching Popish saints, transubstantiation, infallibility, bulls, limbus patrum, miracles of the meal-tub, Monmouth's business, the race at Salisbury, &amp;c. Also, something relating to the late unhappy fire at Whitehall.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55124</idno><idno type="EEBO-CITATION">99832806</idno>
+  <idno type="VID">37280</idno>
+  <idno type="EEBO-PROQUEST">2240904630</idno>
+  
+            <idno type="STC">Wing P2541A</idno>
+            <idno type="STC">ESTC R221508</idno>
+            <idno type="PROQUEST">99832806</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832806e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant [d]ialogue between a Protestant school-boy, and a Popish priest concerning the present times, as they met at Hide-Park corner, last Fryday. [Illegible] particularly, touching Popish saints, transubstantiation, infallibility, bulls, limbus patrum, miracles of the meal-tub, Monmouth's business, the race at Salisbury, &amp;c. Also, something relating to the late unhappy fire at Whitehall.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Final page contains song.</note>
+                  <note>Stained, torn and tightly bound, with some loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Protestants --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37280:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37280:2"/>
+            <pb facs="tcp:37280:2"/>
+            <p>A Plea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IALOGUE BETWEEN A <hi>Protestant</hi> School-Boy, And a <hi>Popish PRIEST,</hi> Concerning the Present Times, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s they met at <hi>Hide-Park</hi> Corner, last <hi>Fryday.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o Particularly, touching <hi>Popish Saints,</hi> Transubstantiation, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fallibility▪ Bulls, <hi>Limbus Patrum,</hi> Miracles of the <hi>Meal-Tub, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>onmouth's</hi> business, the Race at <hi>Salisbury,</hi> &amp;c.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lso, something relating to the late unhappy Fire at <hi>Whitehall.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of monk greeting child</figDesc>
+               <q>well met Child direct the to heauen.</q>
+               <q>i thank you good Sir</q>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:37280:3"/>
+            <pb n="3" facs="tcp:37280:3"/>
+            <head>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Dialogue betwixt a <hi>Boy</hi> and a <hi>Papist.</hi>
+            </head>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y.</hi>
+               </speaker>
+               <p>HA boys <hi>Tom,</hi> go carry home my Tops, my Giggs, my Marbles and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y Nicks, yonder comes the Man I told you <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f, that taught me to keep so many Holy-days: <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y, go, I say, for I'll play no longer, but <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>and at the Corner, and salatue him, it may <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e he may teach me a trick more pleasant than <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> breaking up at <hi>Easter, Whitsontide,</hi> or <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hristmas.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Well then <hi>Jack,</hi> adieu till Night, I'll <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e no Eves-dropper to over-hear your Argu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ents. Farewel <hi>Tom.</hi> Now for a touch of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y Grandmother at <hi>Rome-ave Domine,</hi> hail, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>
+                  <hi>O my Child, well met, I have been <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oking for thee to Instruct thee in some farther <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rinciples: How hast thou improved thy self in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat I taught thee last?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y.</hi>
+               </speaker>
+               <p>Well, Sir, as to observing of the Ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y-<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ays, for I have plaid the Truant at least Twenty times, as our Scholars tell me my Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er says, since I converst with you.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>
+                  <hi>O Heretick, would not he then have <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hee observe those days the Pope has set a-part
+<pb n="4" facs="tcp:37280:4"/> to be Religiously kept, as sanctified Holy-da<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>No, but vows he'll whip me soun<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when ever I come to School again; and ind<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I believe he'll be as good as his word, for<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is a cruel man.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Well, thou shalt be no more under s<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>jection to a Heretick, but be instructed by Pedagogue of ours; these damn'd Heretick<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> know would ruine thee, but I'll prevent th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and take care for thy future Education.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O law Sir, what's that Pedagog<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ha! that's a fine Name indeed, pray w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> manner of thing is it:</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Why one that shall teach thee to rec<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> all the Articles of thy Belief, and only rest<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Salvation on the Pope's Infallibility; but co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> up little Knave, what Holy-days did you so stri<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ly observe, name them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Why, all those Catholick Saints da<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that have been Hanged for Treason, ever si<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Queen <hi>Besses</hi> days, as they call her.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>O Villain, for Treason: no, but t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> dye Martyrs for the holy Church, under<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Heretical Persecutions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Well then, that died Martyrs, as <hi>Gui<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Faux, Catesby, Bookwood, Piercy, Digby,</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the like, with Father <hi>Garner, Staely, Colem<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Langhorn,</hi> all the Jesuits, and a number mo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I took them all for Saints, because they ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> up the more Holy-days to keep me from<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> School.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:37280:4"/>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>'Tis very well you did, and must ever <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>fter hold them to be Saints; or else be plung'd <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nto Eternal Torments.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Well, Sir, but as to the Pope's Infal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bility, pray has the Pope no Sin? cannot he <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rr like other Men?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>No, 'tis a mortal Sin, and does de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>erve the hottest Flames of</hi> Purgatory <hi>to once <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> much as think he can; all that he does is <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uer than the Scriptures, all is Gospel that he <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eaks, or be it what it will, he makes it so; <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ay, he will have it so in spight of all the He<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eticks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Why, truly Sir, I heard my Father call <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>im <hi>Whore of Babylon,</hi> and I am sure Whores <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re counted naughty People here in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Ay, thy poor Father was a damn'd He<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>etick, and would have made thee so, but thou <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ust not believe a word he taught thee, but re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ounce him as I told thee, and acknowledge no <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ther Father but the Pope, you must believe he is <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nfallible and cannot sin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Well, Sir, if it must be so.—</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Must, yes upon pain of Damnation it <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ust, to think a thought to the contrary, de<g ref="char:EOLhyphen"/>serves the Flames.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Yet farther, Sir, I heard our Minister <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nce say (and Ministers with us are counted <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oly Men) that he was a Scarlet Beast, with seven Heads and ten Horns, and I am sure
+<pb n="6" facs="tcp:37280:5"/> that such a Beast must needs be ugly and mon<g ref="char:EOLunhyphen"/>strous too, for I never heard of such a one i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>England,</hi> unless it was the Ram that wa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> shown in <hi>Bartholomew-Fair,</hi> and that too ha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> but one Head, though it had many Horns; pray, Sir, is he like a Ram?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sirrah, leave off these blasphemous Qu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ries, or I shall teach you better manners, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> same way we taught the Hereticks in blesse<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Queen</hi> Mary's <hi>days.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Pray, Sir, how was that?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Why with Fire and Faggot, Sirrah<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> which Lesson we intend to read them o'er agai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ere long, if our business succeds.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O law, Sir, why did you bake the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in Ovens and make Pasties of them to fee<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Pope?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>No, Rogue, but chain'd them to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Stake, and burnt them to ashes: but more<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> this hereafter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Why Sir, 'tis said the Roman Cath<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>licks do use to bake their God, and eat hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> up, well then may they devour an hundre<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> such poor humane Squabs as I.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Thou damn'd Heretick, I'll sacrifi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thee up to</hi> Molech, <hi>if thou dar'st say the li<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> again.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O pray, Sir, I'll do any thing, O, fo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the sake of St. <hi>Franeis,</hi> Sir, don't eat me.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>No Villain, I shan't, and yet because<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:37280:5"/> see how false thy Heretical Parents have taught thee, on purpose thou mightest be damned; I will in pity instruct thee somewhat about the Omnipotence of Transubst<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tiation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O law, Sir, that is such a hard word, I shall forget it, pray chalk it up on my Hat, for my better remembrance.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>No, Sirrah, but on thy back with a Discipline, as we did on</hi> Langhorn<hi>'s, for dis<g ref="char:EOLhyphen"/>covering of the Jesuits Lands, if thou dar'st be thus unmannerly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Sir, I have done; now you may in<g ref="char:EOLhyphen"/>form me what you please.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Well then, Transubstantiation is by the power of the holy Mother Church, and the Om<g ref="char:EOLhyphen"/>nipotence of our infallible Father the</hi> Pope, <hi>by turning of a Wafer by Consecration of the Priest into a Corporal body.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Alas! Sir, I hope the Pope is not a Conjurer, for I heard my Father say, they can do no very strange things; I wondred indeed from whence the <hi>Gypsies</hi> came all this while, and now I perceive they came from <hi>Rome;</hi> I hope, Sir, all your Priests are not <hi>Gypsies,</hi> if they be, they will gabble so that I shall not be able to understand one word they say.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sirrah, will you never leave these thwarting questions, Rascal, I charge thee no more on 'em, O damn'd Heretick the</hi> Pope <hi>a Conjurer, and our</hi> Priests <hi>Gypsies, I shall give
+<pb n="8" facs="tcp:37280:6"/> thee up to be tormented in the hottest hole o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Purgatory.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O pardon me, Sir, I wou'd have said the Pope a Thunderer, and your Priests, Jesuits<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Well turn'd Rogue, I see thou cans<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> equivocate by Mental Reservation, ay, now tho<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> sayest right, for the Pope is a</hi> Boanerger, <hi>a So<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of Thunder, witness his Roaring Bulls agains<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Excommunicated Princes, how soon these Thun<g ref="char:EOLunhyphen"/>derbolts can ruine Kingdoms, by stirring up Re<g ref="char:EOLunhyphen"/>ligion, and unhinge the State of Empire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Alas! Sir, how chance his Holines<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sent none of these horned Beasts into <hi>Englan<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> to do his work, for a mad Bull is a very fear<g ref="char:EOLunhyphen"/>ful thing, Oh how they will buck one, if the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> stand but in their way; for I have seen the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> play sad Tricks in <hi>Smithfield.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Alas, poor Child! I see thou art igno<g ref="char:EOLunhyphen"/>rant in that Affair, and knowest not what they b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O law, Sir, not know what a Bull is<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Ha, ha, ha, and avads, my Father kept tw<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> among his Cows; why, Sir, they have tw<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> short Horns, and a great pair of Stones; O law, not know what a <hi>Bull</hi> is! sure you tak<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> me for a great Fool indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sirrah, I say you are mistaken, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Pope's <hi>Bulls are other manner of things, one<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> them ruin'd</hi> Bohemia, Albigensia, Piedmont <hi>and</hi> Waldensia, <hi>and caused Eight hundre<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thousand Hereticks to die.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:37280:6"/>
+               <speaker>Boy.</speaker>
+               <p>O fie upon his Horns, what a murder<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g Bull was that! 'tis well then that we have <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one of 'em in <hi>England,</hi> such a Bull would <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eat all <hi>London</hi> before him, and swallow up <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aul</hi>'s at a mouthful, and drink the River of <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hames</hi> dry, so that the Water-men would <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e forced to go a Hay-making, avads, that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ould be pretty.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Yes Sirrah, there has been one of them <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ately in</hi> England, <hi>but that Air is so thick, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>he Climate so cold, that he could not roar <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oud nough, nor cast out his Flames around <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>im, as in other Countries, more subject to the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ee of</hi> Rome.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Alas! if they be fiery Bulls, and cast <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut Flames so, that might be one of them (for <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ught I know) which roar'd so loud and fu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iously at <hi>Whitehall</hi> last Week, for I remem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er abundance of Flames flew about, tho <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Weather was very cold at that time; be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ides, some People discourse as if some of the Sons of your Church was concern'd in that dismal Conflagration.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>No, Impudence; 'tis well known how that unhappy Fire began, tho some lewd Here<g ref="char:EOLhyphen"/>ticks have maliciously endeavour'd to make <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eople believe strange things, in order to ren<g ref="char:EOLhyphen"/>der us odious, but I would have you to know, we scorn all such abominable Actions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:37280:7"/>
+               <speaker>Boy.</speaker>
+               <p>Ay, I believe you do, but 'tis as Dog scorns Mutton, when he runs away wit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whole Shoulders.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Come, come, thou art a very Wag, I s<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thou understands not what these kind of Bul<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> are gendred of, nor whence they do derive the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Power.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>No indeed Sir, I know no other tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I have told you; but pray Sir, make me f<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to understand, I'de gladly know.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Why Sirrah, they are Bulls of</hi> Basha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>made to push at Princes, to make them bow b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>fore the See Apostolick, or else by Excommun<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cating them, to tear the Crowns from off the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Heads Depose and Murther them by their ow<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Subjects Hands, as</hi> France <hi>and</hi> England, Ge<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>many <hi>and</hi> Spain <hi>in former Ages had their M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>narchs served—but no more of this.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>But pray Sir, one Question more, for<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> would fain learn what Bulls these are; w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not that one of them that the Pope's Lega<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> brought over to Excommunicate King <hi>Hen<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> the 8th?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Yes it was.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Then I know what they are, for<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> heard my Father read in an old Book, tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that Legate was Hang'd at <hi>Tyburn</hi> with h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Bull about his Neck; sure that was a simp<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Bull that could not roar the Gallows dow<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when others did such Feats as you relate.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:37280:7"/>
+               <speaker>Pap.</speaker>
+               <p>Villain, 'tis Death for thee to say those <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ords again.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O—Sir—hold—I have done.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Tis well thou hast, or I should stop <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y Breath for ever, and purge thee of t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y He<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sie, in the dark Cells of <hi>Limbus Patrum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Alas, Sir, what kind of place is that, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have heard much talk of <hi>Bugby</hi>'s-<hi>hole;</hi> nay, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y Sister told me I should go thither, is that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e <hi>Limbus Patrum</hi> you mean Sir, fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I'll war<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nt you that's some ugly place or other, for <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e very naming on't so scar'd me, that I could <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ot eat my Breakfast.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No, no, Sirrah, it is a place exceeding <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at a thousand times, a place where naughty <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eople go to purge themselves of Sin in streams <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f Fire.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>O law, Sir, what that's a kind of an <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gly place indeed; but pray Sir, have they <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o Victuals there?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Why, good Sir, how can they live <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hen? I hope they don't do as they say the Bears do in <hi>Greenland?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>How is that, Sirrah?</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Why, sit upon their Tails, and suck <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>heir Paws all Winter, instead of Breakfast, Dinner and Supper.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No Rogue, they don't.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:37280:8"/>
+               <speaker>Boy.</speaker>
+               <p>Why, pray Sir, can they live upon no<g ref="char:EOLunhyphen"/>thing, that's a hard case?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Yes, upon nothing but Heat and Smoa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Avads, then <hi>I</hi> believe it is the pla<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from whence our Tobacco comes, for the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they say, the people eat little or nothing b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Smoak; and besides, the people are curse<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> black that come from thence, therefore I b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lieve it must be a damnable hot Country.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No Rascal, 'tis another kind of pla<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and smoke than that, 'tis a place within<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Inch of Hell, just under our Feet, with Ad<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mantine Gates, of which the Pope does a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ways keep the Keys. 'tis <hi>Purgatory,</hi> Sirrah.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Alas! Sir, I don't know, but I veri<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> believe 'tis the same place as I mean, for I a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sure I ne'er smelt no Smoke stink worse tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Tobacco-smoke in my life, and all people sa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that it comes from a place under us; nay, a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> further, I have heard people say that ha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> been at the bottom of a deep Well, that th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have heard the Ducks quak in anoth<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> World; and now, Sir, I believe verily th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> were mistaken, and that it was only the P<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>soners in <hi>Purgatory,</hi> calling for Drink to the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Tobacco.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Ha! Villain, 'tis a Mystery, 'tis a M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>racle beyond thy Capacity, I charge thee<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> speak no more on't.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Well, I shan't Sir, but now you ta<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:37280:8"/> of a Miracle, I have heard much discourse o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Miracles; pray Sir, what manner of thing is a Miracle?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>A Miracle is some wondrous work, wrought by the Church of <hi>Rome;</hi> as raising <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Dead, healing the Blind and the Lame, causing Images to Speak, <hi>&amp;c.</hi> These properly <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>elong to her alone, and are performed by the Clergy.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>But Sir, they say the Plot in <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi>'s days, was discovered by a Miracle, did <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>our Church discover that I pray now?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No, no, thou art damn'd if thou be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ievest that ever there was any Plot, only an <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nvention of the Devil and the <hi>Presbyterians,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o raise a Persecution against the Saints, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ou must believe so on pain of Purgatory.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>But Sir, as to the Discovery, (I heard <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>olks say,) the Meal-Tub made, had your Church no hand in that, if I might be so bold?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Yes, I do believe that was a Miracle <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rought by the Church Apostolick, by way <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f Transubstantiation, turning the Meal into <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ritten Papers, and had it not been so mole<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ted as it was, all the Meal had taken the same <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orm, and filled the Land with flying News of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Pope.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Alas Sir, if your Church could do such Tricks, she may turn all your Meal to Paper, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd then what should we do for Pancakes on <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hrove-Tuesday.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:37280:9"/>
+               <speaker>Pap.</speaker>
+               <p>No, no, Sirrah, all our Miracles r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ther tend to the good of Mankind than a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ways to prejudice them, especially that pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which belongs to Mother Church.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Oh, oh, now I understand you, a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in part the nature of your Miracles too, fo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> remember in 88, there was a mighty Fema<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which brought forth a Son (as I may say)<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> an Hours warning, which was a swinging M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>racle, and I suppose wrought by your Churc<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Thou art in the right on't.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>As right as I am, I believe your M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>racles ceased suddainly after, for when the <hi>Dut<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Landed at <hi>Torbay,</hi> your party could perfor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> none, unless some Wonders by out-runni<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the <hi>Dutch</hi> at <hi>Saliihury</hi>-Plain.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Nay, for all your hast, there was so<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Miracles perform'd too, <hi>viz.</hi> in preserving t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Babie and his Mother from the terrible Ja<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>Meenhere,</hi> and the reputed Dadda also.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>But hold Sir, with your leave, if yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Church could have work'd such Wonders<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you talk of, she would have preserved S<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>John Friend</hi> and Sir <hi>William Perkins,</hi> fro<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that unlucky and fatal Jobb they perform<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at <hi>Tyburn,</hi> as also another holy Brother, who<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Head took leave of him at <hi>Tower-Hill,</hi> M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>racles in those Days I am sure would ha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> been very acceptable among the Sons of yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Church.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:37280:9"/>
+               <speaker>Pap.</speaker>
+               <p>Out upon thee, thou Saucy Villain, let <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have no more of these Reflections; Satan <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s let loose then, so that no Miracle could <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ke place; but he will be bound again e'er <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng, and then you'l see our Miracles will re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve again.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Nay, then I humbly beg your Pardon, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r saying your Army ran away for fear of the <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>utch;</hi> for if Satan was let loose at that time, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> rather think he appeared among them at <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>alisbury,</hi> for as the Proverb says, <hi>They must <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eeds go</hi> (and run too) <hi>when the Devil <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rives.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Come, I see you're a Wag, let's have <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Catch, and so conclude.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Now you talk of a Catch, it puts me <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mind of the Hang-man, and therefore I be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ieve you would have me sing to the Tune of <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t.</hi> Coleman <hi>and the five Jesuits.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No Sirrah, that's too serious to make <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Song on.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Oh Sir, 'tis the better, for it is like singing a Psalm at <hi>Tyburn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why, you don't think I shall be Hang'd, do ye you Knave;</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>I don't know, but if you go on as you begin, you may prosper so well as to be Saint<g ref="char:EOLhyphen"/>ed at last, and much good may do you with it.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Come, leave your joaking, and let's have the Song, but let's have no Heresie in't I charge you.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="16" facs="tcp:37280:10"/>
+            <head>The SONG;</head>
+            <opener>To the Tune of <hi>Clories awake:</hi> Or, <hi>I am a Maid,</hi> &amp;c.</opener>
+            <l>THE <hi>Papist</hi>'s Religion will crrtainly please;</l>
+            <l>For that will Indulge it to live at our ease;</l>
+            <l>And if we have <hi>Peter</hi>-pence, fear not the Story</l>
+            <l>Of the wide Mouth of Hell, or the Hole <hi>Purgatory,</hi>
+            </l>
+            <l>The <hi>Pope</hi> and <hi>Jack Ketch</hi> has made many Saints,</l>
+            <l>And yet all the <hi>Papists</hi> are full of Complaints?</l>
+            <l>But there is no reason I think for this thing,</l>
+            <l>When <hi>Jack</hi> sends them all up to Heaven in a String.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, <hi>Printed by</hi> R.G. <hi>in</hi> Little Britain, <hi>169<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb facs="tcp:37280:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
